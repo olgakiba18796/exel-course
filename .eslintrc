@@ -11,4 +11,3 @@
   },
   "extends": ["eslint:recommended", "google"]
 }
-s
